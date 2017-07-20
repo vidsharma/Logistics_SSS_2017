@@ -2,5 +2,3 @@ theme: jekyll-theme-slate
 title: [MolSSI Summer School 2017]
 description: [A software school for computational molecular scientist]
 
-gems:
-  - jekyll-sitemap

@@ -97,3 +97,4 @@ All meals will be provided in D2 (also on the map).
 ## Other activities on campus 
 McComas gym will be available for leisure from 6:00am to 8:00pm. Participants
 will have to pay $5.00 each time they visit the gym during their stay. 
+
