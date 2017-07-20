@@ -3,7 +3,7 @@ title: Map
 layout: default
 ---
 
-[Home](README.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
+[Home](index.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
 
 <head>
   <style>

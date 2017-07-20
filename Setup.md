@@ -3,7 +3,7 @@ title: Setup
 layout: default
 ---
 
-[Home](README.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
+[Home](index.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
 
 ## Setup 
 Please make sure to install everything before the start of your workshop and
