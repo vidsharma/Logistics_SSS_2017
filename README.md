@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+title: Setup
+---
 
-You can use the [editor on GitHub](https://github.com/MolSSI-SSS/Logistics_SSS_2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Home](README.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
+
+The 2017 MolSSI Software Summer School will be held July 24-August 2 at
+Virginia Tech in Blacksburg, Virginia. The School will focus on first- and
+second-year graduate students in the computational molecular sciences (bio- and
+macro-molecular simulation, quantum chemistry, and materials science) whose
+research requires a firm foundation in software engineering and programming.
+
+The School’s curriculum will focus on best practices in software engineering –
+version control, continuous integration, data management, programming
+paradigms, etc. – to promote reproducibility and reliability in research as
+well as aspects of modern high-performance computing architectures and code
+optimization.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MolSSI-SSS/Logistics_SSS_2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
