@@ -144,7 +144,7 @@ function initMap() {
       'tickets on campus.</p>'
   },{
     name:"D2 Dining Facility",
-    latlang:new google.maps.LatLng(37.224538, -80.421195),
+    latlang:new google.maps.LatLng(37.22497572, -80.42208096),
     ico:'img/food.png',
     ctent:'<h4 class="text-muted">'+
       '<a href="http://www.dining.vt.edu/centers/d2/dtwo.html" target="_blank">'+
@@ -154,11 +154,11 @@ function initMap() {
       'Campbell Hall where students will be staying.</p>'
   },{
     name:"Campbell Hall",
-    latlang:new google.maps.LatLng(37.2273517, -80.4247049),
+    latlang:new google.maps.LatLng(37.22604852, -80.42205155),
     ico:'img/bed.png',
     ctent:'<h4 class="text-muted">Campbell Hall</h4>'+
       '<p>Students will be staying in '+
-     '<a href="https://www.vt.edu/about/buildings/new-residence-hall-east.html" target="_blank">'+
+     '<a href="https://www.vt.edu/about/buildings/campbell-hall.html" target="_blank">'+
      'Campbell Hall</a>. Bed linens will be provided.'
   },{
     name:"Check-in (after 4pm)",
@@ -166,7 +166,7 @@ function initMap() {
     ico:'img/welcome.png',
     ctent:'<h4 class="text-muted">New Hall West</h4>'+
      '<p>Formal check-in will take place in Campbell Hall (see map) from'+
-     ' 11:00 AM until 4:00 PM on Sunday July 23<sup>th</sup>. If you are driving'+
+     ' 11:00 AM until 4:00 PM on Sunday July 23<sup>rd</sup>. If you are driving'+
      ' to campus, please try to arrive during this time. However, if you are arriving'+
      ' at any other time, you will check-in here at New Hall West. The check-in'+
      ' desk is open 24 hours so just say that you are with the MolSSI Software'+
