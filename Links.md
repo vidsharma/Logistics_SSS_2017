@@ -3,8 +3,6 @@ title: Links
 layout: default
 ---
 
-[Home](index.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
-
 ## Useful Software Links
 
 This is a general to collect a large variety of useful websites, tutorials, and

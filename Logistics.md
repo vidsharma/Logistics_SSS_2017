@@ -3,9 +3,8 @@ title: Logistics
 layout: default
 ---
 
-[Home](index.html) | [Setup](Setup.html) | [Logistics](Logistics.html) | [Map](Map.html) | [Useful Links](Links.html)
-
-# Logistics
+# Logistical Information
+---
 
 ## Roanoke Airport Shuttle Information 
 ### Arrival:
@@ -20,22 +19,17 @@ that some participants take the Smartway bus. The Smartway bus is a convenient
 alternative that provides inexpensive transportation between Roanoke and
 Blacksburg. The Smartway makes frequent stops at the Roanoke airport and
 Squires Student Center on Virginia Tech's campus. If your departure time is
-during the Smartway bus regular schedule, we ask that you take the Smartway bus
-and this is indicated on the attached "Airport Transportation Schedule." The
-Smartway bus fee is USD$4.00 (no change will be given, so I recommend having
-the exact amount available) and provides comfortable transportation including
-free Wi-Fi. Upon arrival, participants should board the Smartway bus at the
-specified time directly outside of the baggage claim area and take the Squires
-Student Center exit in Blacksburg (shown on the MRPSS website interactive map
-under the "Students" tab). When leaving, participants should board the Smartway
-bus at Squires Student Center and exit at the Roanoke airport. 
+during the Smartway bus regular schedule, we ask that you take the Smartway
+bus.  The schedule can be found on the [Airport Transportation
+Schedule](http://smartwaybus.com/smartway.html) website. The Smartway bus fee
+is USD$4.00 (no change will be given, so I recommend having the exact amount
+available) and provides comfortable transportation including free Wi-Fi. When
+leaving, participants should board the Smartway bus at Squires Student Center
+and exit at the Roanoke airport. 
 
 Alternatively, if your departure time is NOT during the Smartway bus regular
 schedule, please email us at (SSS@molssi.org) and we will provide a shuttle for
-you, and this will be specified on the attached "Airport Transportation
-Schedule." Additional information and schedules for the Smartway bus can be
-found at http://smartwaybus.com. Any questions about transportation should be
-directed to the summer school email address (SSS@molssi.org). 
+you,
 
 ## Residence Hall information 
 All participants will be staying in Campbell Hall on Virginia Tech’s Campus. If
@@ -51,6 +45,8 @@ stay.
 To check-out, you will need to place your lodging key and meal card in the box
 in the lobby of Campbell Hall.
 
+---
+
 ## Campus Map 
 A Virginia Tech campus map can be found on the [VT
 website](http://www.maps.vt.edu/PDF/campus-map-highres.pdf). A more concise
@@ -65,6 +61,8 @@ is around Drillfield Drive. Once you park, you will need to check-in and ask
 for a parking pass for the week. Please hang the tag for the duration of the
 workshop to avoid getting tickets on campus. If you cannot find parking around
 Drillfield drive please park in regular F/S spaces, and avoid 24-hour lots. 
+
+---
 
 ## Reception Sunday, July 23 at 5:30pm 
 There is an opening reception on Sunday, July 23 located at the South End Zone
@@ -85,6 +83,8 @@ bowling night. Shuttles will pick-up outside the residence hall at 7:10pm.
 On Tuesday, August 1st, the summer school will host a farewell cook out at
 MolSSI headquarters. Shuttle pick up information will be forthcoming during the
 summer school.
+
+---
 
 ## Classroom Space
 The group will meet Monday through Friday in Goodwin Hall 135 and 244. Classes
