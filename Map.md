@@ -16,7 +16,7 @@ title: Map
   <h3>Interactive Virginia Tech Map</h3>
   <div id="map"></div>
 
-  <script src="js/map_script.js"></script>
+  <script src="script/map_script.js"></script>
 
   <script async defer
   src="https://maps.googleapis.com/maps/api/js

@@ -116,7 +116,7 @@ function initMap() {
   var locations = [{
     name:"Goodwin Hall",
     latlang:new google.maps.LatLng(37.232508, -80.425851),
-    ico:'img/class.png',
+    ico:'assets/class.png',
     ctent:'<h4 class="text-muted">Goodwin Hall</h4>'+
       '<p>Daily Lectures will be held in Goodwin Hall Room 155. Students '+
       'will have access to power outlets for thier laptops. '+
@@ -124,7 +124,7 @@ function initMap() {
   },{
     name:"Parking",
     latlang:new google.maps.LatLng(37.221338, -80.420498),
-    ico:'img/car.png',
+    ico:'assets/car.png',
     ctent:'<h4 class="text-muted">Washington Street Parking Lot</h4>'+
       '<p>If you are driving to Virginia Tech, the closest parking lot to the '+
       'residence hall is the Washington Street Parking Lot near Cassell Coliseum. '+
@@ -134,7 +134,7 @@ function initMap() {
   },{
     name:"Parking Garage",
     latlang:new google.maps.LatLng(37.231230, -80.426216),
-    ico:'img/car2.png',
+    ico:'assets/car2.png',
     ctent:'<h4 class="text-muted">Perry Street Parking Garage</h4>'+
       '<p>Students who have driven to Virginia Tech may wish to park their '+
       'vehicles in the Perry Street Parking Garage while attending lectures '+
@@ -144,7 +144,7 @@ function initMap() {
   },{
     name:"D2 Dining Facility",
     latlang:new google.maps.LatLng(37.22497572, -80.42208096),
-    ico:'img/food.png',
+    ico:'assets/food.png',
     ctent:'<h4 class="text-muted">'+
       '<a href="http://www.dining.vt.edu/centers/d2/dtwo.html" target="_blank">'+
       'D2 Dining Facility</a></h4>'+
@@ -154,7 +154,7 @@ function initMap() {
   },{
     name:"Campbell Hall",
     latlang:new google.maps.LatLng(37.22604852, -80.42205155),
-    ico:'img/bed.png',
+    ico:'assets/bed.png',
     ctent:'<h4 class="text-muted">Campbell Hall</h4>'+
       '<p>Students will be staying in '+
      '<a href="https://www.vt.edu/about/buildings/campbell-hall.html" target="_blank">'+
@@ -162,7 +162,7 @@ function initMap() {
   },{
     name:"Check-in (after 4pm)",
     latlang:new google.maps.LatLng(37.222206, -80.422463),
-    ico:'img/welcome.png',
+    ico:'assets/welcome.png',
     ctent:'<h4 class="text-muted">New Hall West</h4>'+
      '<p>Formal check-in will take place in Campbell Hall (see map) from'+
      ' 11:00 AM until 4:00 PM on Sunday July 23<sup>rd</sup>. If you are driving'+
@@ -173,7 +173,7 @@ function initMap() {
   },{
     name:"Smartway Bus",
     latlang: new google.maps.LatLng(37.229811,-80.418426),
-    ico:'img/bus.png',
+    ico:'assets/bus.png',
     ctent:'<h4 class="text-muted">Smartway Bus Stop</h4>'+
        '<p>The smart way bus will stop on the Almumni Mall Side'+
        ' of the Squires Student Center.  This is the side where '+
