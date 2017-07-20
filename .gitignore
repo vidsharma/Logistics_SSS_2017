@@ -102,3 +102,6 @@ ENV/
 
 _site/
 Gemfile.lock
+
+data/thread_test.o
+data/thread_test
