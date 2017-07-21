@@ -12,6 +12,8 @@ Please note that if you decide not to follow the below instructions and use
 local installs of your software it is not guaranteed that the summer school team
 can assist in debugging any issues that may arise.
 
+---
+
 ## Conda
 Conda is an open source package management system and environment management
 system for installing multiple versions of software packages and their
@@ -36,6 +38,8 @@ bash miniconda.sh -b -p $HOME/miniconda
 echo PATH="\$HOME/miniconda/bin:\$PATH" >> ~/.bashrc
 ```
 
+---
+
 ## The Software Summer School environment
 To make a great deal of compilation and installation simpler we will create a
 conda environment. This environment isolates the software summer school stack
@@ -51,6 +55,8 @@ Linux conda environment
 conda create -n sss python=3.5 psi4 numpy lawrap cmake jupyter scipy numexpr -c psi4/label/dev -c psi4
 ```
 
+---
+
 ## Testing
 Please ensure that the installation was successful by trying out both of the tests below. 
 
@@ -59,11 +65,11 @@ Please ensure that the installation was successful by trying out both of the tes
 Test the installation:
 ```
 source activate sss
-psi4 -c “import psi4; psi4.test()”
+python -c “import psi4; psi4.test()”
 ```
 
-As long as there are no tests that end with a `Failed!` the installation was
-successful. Note `xfailed` is fine (an expected fail).
+> As long as there are no tests that end with a `Failed!` the installation was
+> successful. Note `xfailed` is fine (an expected fail).
 
 ### Test the compilers
 First download the following test C++ file from [here](data/thread_test.cpp).
