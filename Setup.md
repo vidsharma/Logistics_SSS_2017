@@ -85,7 +85,19 @@ python -c 'import psi4; psi4.test()'
 > successful. Note `xfailed` is fine (an expected fail).
 
 ### Test the compilers
-First download the following test C++ file from [here](/data/thread_test.cpp) (right click to download file).
+First copy the following C++ code to a file named `thread_test.cpp`:
+```
+#include <iostream>
+#include <omp.h>
+int main() {
+    #pragma omp parallel num_threads(4)
+    {
+        #pragma omp critical
+        std::cout << "tid = " << omp_get_thread_num() << std::endl;
+        std::cout << "Hello World!" << std::endl;
+    }
+}
+```
 
 Mac compile line:
 > In order for the mac compilers to work correctly xcode command line tools need
