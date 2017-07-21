@@ -85,7 +85,7 @@ python -c 'import psi4; psi4.test()'
 > successful. Note `xfailed` is fine (an expected fail).
 
 ### Test the compilers
-First download the following test C++ file from [here][1] (right click to download linked file).
+First download the following test C++ file from [here](/data/thread_test.cpp) (right click to download linked file).
 
 Mac compile line:
 > In order for the mac compilers to work correctly xcode command line tools need
@@ -122,5 +122,3 @@ The above work could not have been possible without the help from many
 open-source projects. In particular, most of the above ecosystem is based of
 (and supported by) the excellent work of Lori Burns at the Georgia Institute of
 Technology.
-
-[1]:{{ site.github.url }}/data/thread_test.cpp
