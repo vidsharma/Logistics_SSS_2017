@@ -24,6 +24,13 @@ questions please email us (sss@molssi.org).
 <br>
 <center><h1>Agenda</h1></center>
 
+
+Classes start each day at 9:00am and ends at 5:30pm, with lunch roughly from
+12:00-1:30pm, plus morning and afternoon coffee breaks at approximately 10:30am
+and 3:00pm. Sessions will consist of lectures and hands-on exercises. All
+meetings will be held in Goodwin Hall 135 on Virginia Tech’s Campus.
+
+
 <center><h3>Week 1</h3></center>
 
 ---

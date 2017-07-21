@@ -104,3 +104,5 @@ _site/
 
 data/thread_test.o
 data/thread_test
+timer.dat
+pytest*
