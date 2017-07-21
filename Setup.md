@@ -26,8 +26,8 @@ already have conda you can skip this step.
 
 Mac instructions:
 ```
-curl https://repo.continuum.io/miniconda/Miniconda3-latest-OSX-x86_64.sh -O
-bash Miniconda3-latest-OSX-x86_64.sh -b -p $HOME/miniconda
+curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O
+bash Miniconda3-latest-MacOSX-x86_64.sh -b -p $HOME/miniconda
 echo PATH="\$HOME/miniconda/bin:\$PATH" >> ~/.bashrc
 ```
 
@@ -65,7 +65,7 @@ Please ensure that the installation was successful by trying out both of the tes
 Test the installation:
 ```
 source activate sss
-python -c “import psi4; psi4.test()”
+python -c 'import psi4; psi4.test()'
 ```
 
 > As long as there are no tests that end with a `Failed!` the installation was
