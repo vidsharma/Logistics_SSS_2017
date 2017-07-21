@@ -123,4 +123,4 @@ open-source projects. In particular, most of the above ecosystem is based of
 (and supported by) the excellent work of Lori Burns at the Georgia Institute of
 Technology.
 
-[1]:{{ site.url }}/data/thread_test.cpp
+[1]:{{ site.github.url }}/data/thread_test.cpp
