@@ -22,13 +22,14 @@ Windows, and was created for Python programs but can package and distribute any
 software.
 
 To install conda please run the following commands from a bash shell. If you
-already have conda you can skip this step.
+already have conda installed please run `conda update conda` and move on to the
+next step.
 
 Mac instructions:
 ```
 curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O
 bash Miniconda3-latest-MacOSX-x86_64.sh -b -p $HOME/miniconda
-echo PATH="\$HOME/miniconda/bin:\$PATH" >> ~/.bashrc
+echo PATH="\$HOME/miniconda/bin:\$PATH" >> ~/.bash_profile
 ```
 
 Linux instructions (or Windows Ubuntu shell):
@@ -45,14 +46,13 @@ To make a great deal of compilation and installation simpler we will create a
 conda environment. This environment isolates the software summer school stack
 from the rest of the dependencies on your laptop and avoid compilation of code.
 
-Mac conda environment:
 ```
-conda create -n sss python=3.5 psi4 numpy lawrap gnu cmake jupyter scipy numexpr -c intel -c psi4/label/dev -c psi4
+conda create -n sss python=3.5 psi4 numpy lawrap gnu cmake jupyter scipy numexpr mkl-include gcc-5-mp -c intel -c psi4/label/dev -c psi4
 ```
 
 Linux conda environment
 ```
-conda create -n sss python=3.5 psi4 numpy lawrap cmake jupyter scipy numexpr -c psi4/label/dev -c psi4
+conda create -n sss python=3.5 psi4 numpy lawrap cmake jupyter scipy numexpr mkl-include gcc-5-mp -c intel -c psi4/label/dev -c psi4
 ```
 
 ---
@@ -72,9 +72,13 @@ python -c 'import psi4; psi4.test()'
 > successful. Note `xfailed` is fine (an expected fail).
 
 ### Test the compilers
-First download the following test C++ file from [here](data/thread_test.cpp).
+First download the following test C++ file from [here][1] (right click to download linked file).
 
 Mac compile line:
+> In order for the mac compilers to work correctly xcode command line tools need
+> to be installed.  Before compiling the below please run
+> `xcode-select --install`.
+
 ```
 g++ -o thread_test -fopenmp thread_test.cpp -Wl,-rpath,${CONDA_PREFIX}/lib/
 ```
@@ -86,7 +90,7 @@ g++ -o thread_test -fopenmp thread_test.cpp
 
 You can then run this compiled executable and you should see the following
 (number ordering may change):
-```
+```bash
 user:~/tests ./thread_test
 tid = 2
 Hello World!
@@ -105,3 +109,5 @@ The above work could not have been possible without the help from many
 open-source projects. In particular, most of the above ecosystem is based of
 (and supported by) the excellent work of Lori Burns at the Georgia Institute of
 Technology.
+
+[1]:{{ site.url }}/download/thread_test.cpp
