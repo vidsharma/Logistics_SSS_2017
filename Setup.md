@@ -47,7 +47,7 @@ from the rest of the dependencies on your laptop and avoid compilation of code.
 
 Mac conda environment:
 ```
-conda create -n sss python=3.5 psi4 numpy lawrap gnu cmake jupyter scipy numexpr sse41 -c intel -c psi4/label/dev -c psi4
+conda create -n sss python=3.5 psi4 numpy lawrap gnu cmake jupyter scipy numexpr -c intel -c psi4/label/dev -c psi4
 ```
 
 Linux conda environment
