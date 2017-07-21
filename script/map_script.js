@@ -118,8 +118,8 @@ function initMap() {
     latlang:new google.maps.LatLng(37.232508, -80.425851),
     ico:'images/class.png',
     ctent:'<h4 class="text-muted">Goodwin Hall</h4>'+
-      '<p>Daily Lectures will be held in Goodwin Hall Room 135. Students '+
-      'will have access to power outlets for thier laptops.</p>'
+      '<p>Daily Lectures will be held in Goodwin Hall Room 135 and 244. Students '+
+      'will have access to power outlets for their laptops.</p>'
   },{
     name:"Parking",
     latlang:new google.maps.LatLng(37.221338, -80.420498),

@@ -50,16 +50,14 @@ in the lobby of Campbell Hall.
 ## Campus Map 
 A Virginia Tech campus map can be found on the [VT
 website](http://www.maps.vt.edu/PDF/campus-map-highres.pdf). A more concise
-interactive map with relevant buildings marked will be provided on the [MolSSI
-SSS 2017
-website](http://molssi.org/2017/05/07/molssi-software-summer-school-2017/) in
-the next several days.
+interactive map with relevant buildings marked is avalible on the
+[Map page][1].
 
 ## Parking
 If you are driving to the workshop, the closest parking to the residence hall
 is around Drillfield Drive. Once you park, you will need to check-in and ask
 for a parking pass for the week. Please hang the tag for the duration of the
-workshop to avoid getting tickets on campus. If you cannot find parking around
+workshop to avoid getting tickets on campus. If you cannot find parking around
 Drillfield drive please park in regular C/G or F/S spaces, and avoid 24-hour lots. 
 
 ---
@@ -90,12 +88,13 @@ summer school.
 The group will meet Monday through Friday in Goodwin Hall 135 and 244. Classes
 start each day at 9:00am and ends at 5:30pm, with lunch roughly from
 12:00-1:30pm, plus morning and afternoon coffee breaks at approximately 10:30am
-and 3:00pm. Please refer to the campus map for directions. 
+and 3:00pm. Please refer to the [campus map][1] for directions.
 
 ## Dining Hall information 
-All meals will be provided in D2 (also on the map). 
+All meals will be provided in D2 (also on the [Map][1]).
 
 ## Other activities on campus 
 McComas gym will be available for leisure from 6:00am to 8:00pm. Participants
 will have to pay $5.00 each time they visit the gym during their stay. 
 
+[1]:{{ site.github.url }}/Map.html
