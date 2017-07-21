@@ -97,7 +97,7 @@ All meals will be provided in D2 (also on the [Map](Map.md)).
 McComas gym will be available for leisure from 6:00am to 8:00pm. Participants
 will have to pay $5.00 each time they visit the gym during their stay. 
 
-test this <a href="/data/thread_test.cpp" download="thread_test.cpp"> link</a>.
+test this <a href="{{ '/data/thread_test.cpp' | realative_url }}" download="thread_test.cpp"> link</a>.
 
 [1]:Map.md
 
