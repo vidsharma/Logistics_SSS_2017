@@ -46,11 +46,24 @@ To make a great deal of compilation and installation simpler we will create a
 conda environment. This environment isolates the software summer school stack
 from the rest of the dependencies on your laptop and avoid compilation of code.
 
+### Mac conda environment
+First run:
+```
+sysctl machdep | grep features | grep -o AVX2
+```
+
+If the above returns "AVX2" please use the following lines:
 ```
 conda create -n sss python=3.5 psi4 numpy lawrap gnu cmake jupyter scipy numexpr mkl-include gcc-5-mp -c intel -c psi4/label/dev -c psi4
 ```
 
-Linux conda environment
+otherwise use the below:
+```
+conda create -n sss python=3.5 psi4 numpy lawrap gnu cmake jupyter scipy numexpr mkl-include gcc-5-mp sse41 -c intel -c psi4/label/dev -c psi4
+```
+
+
+### Linux conda environment
 ```
 conda create -n sss python=3.5 psi4 numpy lawrap cmake jupyter scipy numexpr mkl-include gcc-5-mp -c intel -c psi4/label/dev -c psi4
 ```
