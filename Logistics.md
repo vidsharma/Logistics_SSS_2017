@@ -88,13 +88,16 @@ summer school.
 The group will meet Monday through Friday in Goodwin Hall 135 and 244. Classes
 start each day at 9:00am and ends at 5:30pm, with lunch roughly from
 12:00-1:30pm, plus morning and afternoon coffee breaks at approximately 10:30am
-and 3:00pm. Please refer to the [campus map][1] for directions.
+and 3:00pm. Please refer to the [campus map](Map.md) for directions.
 
 ## Dining Hall information 
-All meals will be provided in D2 (also on the [Map][1]).
+All meals will be provided in D2 (also on the [Map](Map.md)).
 
 ## Other activities on campus 
 McComas gym will be available for leisure from 6:00am to 8:00pm. Participants
 will have to pay $5.00 each time they visit the gym during their stay. 
 
-[1]:{{ site.github.url }}/Map.html
+test this <a href="/data/thread_test.cpp" download="thread_test.cpp"> link</a>.
+
+[1]:Map.md
+
