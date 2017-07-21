@@ -1,0 +1,27 @@
+"no auto indent when pasting
+set noai
+
+"handle spaces over tabs
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+" A few nice features
+set paste
+set wm=5
+syntax on
+
+" Set 7 lines to the cursor - when moving vertically using j/k
+set so=7
+
+"Always show current position
+set ruler
+:map <F12> :set number!<CR>
+
+" Tell vim to remember certain things when we exit
+"  '10  :  marks will be remembered for up to 10 previously edited files
+"  "100 :  will save up to 100 lines for each register
+"  :20  :  up to 20 lines of command-line history will be remembered
+"  %    :  saves and restores the buffer list
+"  n... :  where to save the viminfo files
+set viminfo='10,\"1000,:20,%,n~/.viminfo

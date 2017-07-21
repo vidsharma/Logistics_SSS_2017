@@ -120,7 +120,6 @@ function initMap() {
     ctent:'<h4 class="text-muted">Goodwin Hall</h4>'+
       '<p>Daily Lectures will be held in Goodwin Hall Room 155. Students '+
       'will have access to power outlets for thier laptops. '+
-      'A laptop is not required for class, but you may use one if you wish. '
   },{
     name:"Parking",
     latlang:new google.maps.LatLng(37.221338, -80.420498),

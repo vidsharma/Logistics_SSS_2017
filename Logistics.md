@@ -60,7 +60,7 @@ If you are driving to the workshop, the closest parking to the residence hall
 is around Drillfield Drive. Once you park, you will need to check-in and ask
 for a parking pass for the week. Please hang the tag for the duration of the
 workshop to avoid getting tickets on campus. If you cannot find parking around
-Drillfield drive please park in regular F/S spaces, and avoid 24-hour lots. 
+Drillfield drive please park in regular C/G or F/S spaces, and avoid 24-hour lots. 
 
 ---
 

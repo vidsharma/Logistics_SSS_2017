@@ -98,5 +98,10 @@ tid = 1
 Hello World!
 ```
 
+---
 
-
+## Acknowledgements
+The above work could not have been possible without the help from many
+open-source projects. In particular, most of the above ecosystem is based of
+(and supported by) the excellent work of Lori Burns at the Georgia Institute of
+Technology.

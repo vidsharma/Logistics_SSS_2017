@@ -10,6 +10,7 @@ libraries. If you have any more to add, feel free to make a pull request.
 
 ### Bash:
 - [Bash Tutorial](http://swcarpentry.github.io/shell-novice/)
+- [Vim Settings](data/vimrc_example) - Recommended `~/.vimrc` settings to use.
 
 ### Python
 - [Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-inflammation/)
@@ -44,13 +45,14 @@ Tutorials and references:
 
 ### BLAS/LAPACK
 References:
- - [Full Guide](http://www.netlib.org/lapack/lug)
  - [Quick Guide](http://www.netlib.org/lapack/lug/node145.html)
+ - [Full Guide](http://www.netlib.org/lapack/lug)
 
 Implementations:
  - [Intel MKL](https://software.intel.com/en-us/mkl) - Now free!
  - [OpenBLAS](http://www.openblas.net/)
- - [BLIS/libflame](https://github.com/flame/blis, https://github.com/flame/libflame)
+ - [BLIS](https://github.com/flame/blis)
+ - [libFLAME](https://github.com/flame/libflame)
 
 Wrapper libraries:
  - [Armadillo](http://arma.sourceforge.net/)
