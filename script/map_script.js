@@ -111,15 +111,15 @@ function initMap() {
   //    Urls should work too, I think.
   // ctent: Become the html attribute on the marker object
   //    this is the text that appears when you click on the pin with a little bit more info about each location.
-  //    I will admit, I was playing around a bit when I decided to set this up instead of just putting the text 
+  //    I will admit, I was playing around a bit when I decided to set this up instead of just putting the text
   //    on the page below the map.
   var locations = [{
     name:"Goodwin Hall",
     latlang:new google.maps.LatLng(37.232508, -80.425851),
     ico:'images/class.png',
     ctent:'<h4 class="text-muted">Goodwin Hall</h4>'+
-      '<p>Daily Lectures will be held in Goodwin Hall Room 155. Students '+
-      'will have access to power outlets for thier laptops. '+
+      '<p>Daily Lectures will be held in Goodwin Hall Room 135. Students '+
+      'will have access to power outlets for thier laptops.</p>'
   },{
     name:"Parking",
     latlang:new google.maps.LatLng(37.221338, -80.420498),
