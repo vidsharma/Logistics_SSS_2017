@@ -61,3 +61,5 @@ Wrapper libraries:
  - [Lapack++](http://lapackpp.sourceforge.net/)
  - [LAWrap](https://github.com/devinamatthews/lawrap)
 
+## QM Theory Links
+ - [C++ Programming Tutorial in Chemistry](http://sirius.chem.vt.edu/wiki/doku.php?id=crawdad:programming)
